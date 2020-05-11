@@ -14,7 +14,7 @@ WARP+ uses Cloudflare’s virtual private backbone, known as Argo, to achieve hi
 - First download python and install in your system. [Python 3.7+](https://www.python.org/downloads/)
 - Install module requests
 - `pip install requests` copy in cmd or terminal and click enter btn
-- Download [this project](https://github.com/aliilapro/warp-plus-cloudflare/archive/master.zip) and extract it
+- Download [this project](https://github.com/pcodejs/warpplus-cloudflare/archive/master.zip) and extract it
 - Open a cmd or terminal or shell in the extracted directory
 - Enter `python wp-plus.py`
 - Run the script and use it
@@ -26,4 +26,4 @@ WARP+ uses Cloudflare’s virtual private backbone, known as Argo, to achieve hi
 3. Advanced > Diagonistics
 4. Under Client Configuration > Copy the ID
 
-![](https://github.com/ALIILAPRO/warp-plus-cloudflare/blob/master/script.png)
+![](https://github.com/pcodejs/warpplus-cloudflare/blob/master/script.png)
